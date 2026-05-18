@@ -7,6 +7,7 @@ This repository serves as the official implementation of the paper **"SPPO: Sequ
 ## News
 
 - **[2026.04]** 🎉 This paper has been accepted to the **ACL 2026 Main Conference**!
+- **[2026.05]** 🎉 This paper has been selected as Oral in ACL 2026. See you in San Diego!
 
 ## 💡 Abstract
 
